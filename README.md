@@ -1,16 +1,30 @@
-### Hi there 👋
+## Bem-vindo ao meu Git :coffee:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<!--
-**guischimidt/guischimidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Meu nome é <strong>Guilherme Schimidt</strong> e por aqui atualizarei todo meu conhecimento obtido e projetos em andamento.<br>
+  Meu foco é o Backend, mas aqui terá um pouquinho de tudo.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  💻 Linguagens: <strong> JS | PHP | React | e +</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong> Git.</strong>
+</p>
+
+<p align="left">
+  💌 <strong>Vamos nos conectar no Linkedin?</strong> ⤵️
+</p>
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/guischimidt/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guischimidt/" /></a>
+
+  <!-- <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  -->
+  <!--
+</p>  
