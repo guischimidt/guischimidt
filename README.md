@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong> JS | PHP | React | e +</strong>
+  💻 Conhecimento: <strong> Node.JS | JS | React.JS | e +</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Git.</strong>
+  💼 Ferramentas: <strong> Git | JEST</strong>
 </p>
 
 <p align="left">
