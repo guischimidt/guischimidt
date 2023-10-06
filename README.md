@@ -3,11 +3,11 @@
 
 <p align="left"> 
   Meu nome é <strong>Guilherme Schimidt</strong> e por aqui atualizarei todo meu conhecimento obtido e projetos em andamento.<br>
-  Meu foco é o Backend, mas aqui terá um pouquinho de tudo.
+  Estou apto para atuar como desenvolvedor FullStack ou Backend.
 </p>
 
 <p align="left">
-  💻 Conhecimento: <strong> Node.JS | JS | React.JS | e +</strong>
+  💻 Conhecimento: <strong> Node.JS | JS | React.JS | Angular | e +</strong>
 </p>
 
 <p align="left">
